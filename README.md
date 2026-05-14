@@ -7,6 +7,7 @@ Aplikasi Flutter untuk tugas Praktikum Pemrograman Berbasis Mobile 2026.
 <img width="600" height="828" alt="Tambah produk" src="https://github.com/user-attachments/assets/926f08ea-cb35-4231-b872-972784046b5e" />
 <img width="535" height="817" alt="Tampilan Awal" src="https://github.com/user-attachments/assets/3a2a6997-4a3d-4dbc-9988-f94d59dbfe45" />
 <img width="549" height="826" alt="Tampilan produk yg ditambahkan" src="https://github.com/user-attachments/assets/b76ef8c9-bf3c-4d95-a4dc-8d0b37ed00fe" />
+<img width="1060" height="880" alt="image" src="https://github.com/user-attachments/assets/a4a13b1b-0016-4292-a2a7-043363933d15" />
 
 
 > Letakkan screenshot tampilan aplikasi di folder ini (root project).
